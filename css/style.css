@@ -1,0 +1,30 @@
+.breakpoint-0 {
+  margin-left: auto;
+  margin-right: auto;
+  width: 100%
+}
+.style16,
+.style24,
+.style32,
+.style40,
+.style48,
+.style56,
+.style64,
+.style8 {
+  background-color: #1700ff;
+  margin-left: 50.3125vw;
+  width: 5.208333333333334%;
+  height: 9.25925925925926vh
+}
+.style8 {
+  margin-top: 0
+}
+.style16,
+.style24,
+.style32,
+.style40,
+.style48,
+.style56,
+.style64 {
+  margin-top: 2.7777777777777777vh
+}
